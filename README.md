@@ -133,3 +133,4 @@ Find the locale code for your language in the list below. The file can be found 
 - vi_VN: Tiếng Việt (Việt Nam)
 - zh_CN: 中文 (中国)
 - zh_TW: 中文 (台灣)
+- And more...
